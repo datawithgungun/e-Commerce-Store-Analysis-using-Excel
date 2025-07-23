@@ -1,8 +1,10 @@
 # e-Commerce-Store-Analysis-using-Excel
 E-commerce store analysis using Excel for sales and customer insights.
 🛒 eCommerce Store Analysis Using Excel
+
 📌 Overview
-This project explores a comprehensive eCommerce dataset featuring customer orders from major Indian platforms such as Flipkart, Myntra, Meesho, Amazon, and Nalli. Leveraging Excel’s data handling capabilities, I performed structured analysis and visual storytelling to uncover business trends, customer behavior, and sales performance.
+This project explores a comprehensive eCommerce dataset featuring customer orders from major Indian platforms such as Flipkart, Myntra, Meesho, Amazon, and Nalli.
+Leveraging Excel’s data handling capabilities, I performed structured analysis and visual storytelling to uncover business trends, customer behavior, and sales performance.
 
 📂 Dataset
 The Excel-based dataset includes:
